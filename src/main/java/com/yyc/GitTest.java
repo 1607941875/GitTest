@@ -6,5 +6,6 @@ public class GitTest {
         System.out.println("hot-fix分支修改第二行");
         System.out.println("分支修改第三行");
         System.out.println("分支修改第四行");
+        System.out.println("远程仓库修改第5行");
     }
 }
